@@ -1,6 +1,9 @@
-# To find Standard Deviation
-
-## query for standard deviation
+# To find Standard Deviation and Mean
+The following measures of deviation for a dataset can be calculated and/or derived:
+- range
+- mean
+- standard deviation
+## query for range, mean and standard deviation
 
 SELECT 
 	neighborhood,
